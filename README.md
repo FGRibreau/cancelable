@@ -1,0 +1,4 @@
+cancelable
+==========
+
+Cancelable functions
