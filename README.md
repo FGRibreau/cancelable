@@ -1,4 +1,4 @@
-# Cancelable [![Build Status](https://drone.io/github.com/FGRibreau/cancelable/status.png)](https://drone.io/github.com/FGRibreau/cancelable/latest)
+# Cancelable [![Build Status](https://drone.io/github.com/FGRibreau/cancelable/status.png)](https://drone.io/github.com/FGRibreau/cancelable/latest) [![Gittip](http://badgr.co/gittip/fgribreau.png)](https://www.gittip.com/fgribreau/)
 
 Cancelable functions for JavaScript.
 
